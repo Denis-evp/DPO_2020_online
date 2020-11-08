@@ -30,9 +30,9 @@
 ## Куда сдавать задания и в какие сроки
 [Дз1](https://www.dropbox.com/request/xxTiePK68pQ2q0QAjtCV)  – 2020.11.08
 
-[Дз2](https://www.dropbox.com/request/6VfQ3JIWjx1gKx7W6oCo)  – 2020.11.14
+[Дз2](https://www.dropbox.com/request/6VfQ3JIWjx1gKx7W6oCo)  – 2020.11.15
 
-[Дз3](https://www.dropbox.com/request/I3iN76b5NDth1hvzC5L6)  – 2020.11.20
+[Дз3](https://www.dropbox.com/request/I3iN76b5NDth1hvzC5L6)  – 2020.11.22
 
 [Дз4](https://www.dropbox.com/request/b4JEPvm4g0hdJwhsOWBa)  – 2020.11.29
 
