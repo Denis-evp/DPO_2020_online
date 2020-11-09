@@ -27,6 +27,23 @@
 За сдачу заданий после дедлайна предусмотрен штраф 40% (максимальный балл за задание будет не 10, а 6). Исключение составляет задание про Телеграм-бота - оно более объемное и имеет относительно свободную формулировку, поэтому на него будет выделено ~ 2.5 недели. 
 Если опоздание более двух недель, задание не проверяется.
 
+## Куда сдавать задания и в какие сроки
+[Дз1](https://www.dropbox.com/request/xxTiePK68pQ2q0QAjtCV)  – 2020.11.08
+
+[Дз2](https://www.dropbox.com/request/6VfQ3JIWjx1gKx7W6oCo)  – 2020.11.15
+
+[Дз3](https://www.dropbox.com/request/I3iN76b5NDth1hvzC5L6)  – 2020.11.22
+
+[Дз4](https://www.dropbox.com/request/b4JEPvm4g0hdJwhsOWBa)  – 2020.11.29
+
+[Дз5](https://www.dropbox.com/request/NQGu2k8vxfx7sJmhDgmU)  – 2020.12.12 - бот, его обязательно нужно прислать в личку @ianpile
+
+[Дз6](https://www.dropbox.com/request/qnEFVcNz5sEJPM8tGBGw)  – 2020.12.09
+
+[Дз7](https://www.dropbox.com/request/nWCEooY7CdlbeasJSj0O)  – 2020.12.14
+
+[Дз8](https://www.dropbox.com/request/khvvPo1CkkB8Wr0TBXPY)  – 2020.12.19
+
 ## Как работать с Github?
 Для скачивания файлов с Github необязательно иметь аккаунт, достаточно кликнуть на зеленую кнопку Clone or download в правом верхнем углу, выбрать Download ZIP и распаковать архив. В папке DPO_2020_autumn будут все файлы, загруженные на Github на момент скачивания.
 
