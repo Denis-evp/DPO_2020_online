@@ -12,6 +12,33 @@
 1 занятие (26.10.2020)  
 [Гид по git. Стиль PEP8. Основы работы с Jupyter. Целые и вещественные числа, логические переменные. Строки, ввод и форматирование](https://github.com/pileyan/DPO_2020_online/tree/master/lect1)
 
+2 занятие (02.11.2020) 
+[Контейнеры в Python: списки, кортежи, множества, словари. Индексация и срезы. Методы строк и списков.](https://github.com/pileyan/DPO_2020_online/tree/master/lect2)
+
+3 занятие (03.11.2020)
+[Регулярные выражения и методы строк. Цикл for. Применение циклов к строкам, спискам, кортежам и словарям. Альтернатива коду с циклами: списковые включения. Итераторы, генераторы списков.](https://github.com/pileyan/DPO_2020_online/tree/master/lect3)
+
+4 занятие (07.11.2020)
+[Устройство функций в Python. Написание простейших функций. Lambda-функции. Функция map(). Написание сложных функций. генераторы, Декораторы, Рекурсия.O-нотация](https://github.com/pileyan/DPO_2020_online/tree/master/lect4)
+
+5 занятие (09.11.2020)
+[O-нотация. Исключения. Работа с файлами: чтение и запись. Поиск ошибок в коде и отладка.](https://github.com/pileyan/DPO_2020_online/tree/master/lect5)
+
+6 занятие (14.11.2020)
+[Статистическая коррекция правописания](https://github.com/pileyan/DPO_2020_online/tree/master/lect6)
+
+7 занятие (16.11.2020)
+[Сбор данных: введение в html, web-scraping с BeautifulSoup](https://github.com/pileyan/DPO_2020_online/tree/master/lect7)
+
+8 занятие (21.11.2020)
+[Сбор данных: web-scraping с BeautifulSoup(Продолжение).Продвинутая работа со словарями. Работа с файлами типа JSON и XML, работа с сервисами через API](https://github.com/pileyan/DPO_2020_online/tree/master/lect8)
+
+9 занятие (23.11.2020)
+[Openpyxl - библиотека для работы с Excel-файлами. Немного продолжение Selenium'a](https://github.com/pileyan/DPO_2020_online/tree/master/lect9)
+
+10 занятие (28.11.2020)
+[Введение в SQL. Clickhouse – SQL хранилище с огромной скоростью](https://github.com/pileyan/DPO_2020_online/tree/master/lect10)
+
 Материалы для тренировки  
 [Ссылки и краткие описания](https://github.com/rogovich/2020_DPO_PythonProg/blob/master/dopmaterialy.md)
 
